@@ -37,4 +37,4 @@ build/
 **/node_modules
 design-doc.md
 **/Constants.js
-**/DS_Store
+**/.DS_Store
