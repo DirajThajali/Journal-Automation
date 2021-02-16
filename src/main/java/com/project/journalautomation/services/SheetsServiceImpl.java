@@ -56,11 +56,11 @@ public class SheetsServiceImpl implements SheetsService {
                 for (int i = 0; i < row.size(); i++) {
                     String key = "";
                     if (i == 0) {
-                        key = "Date";
+                        key = "date";
                     } else if (i == 1) {
-                        key = "Topic";
+                        key = "topic";
                     } else {
-                        key = "Entry";
+                        key = "entry";
                     }
                     map.put(key, row.get(i));
 

@@ -35,3 +35,5 @@ build/
 ### Custom ###
 **/src/main/java/**/Config.java
 **/node_modules
+design-doc.md
+**/Constants.js
